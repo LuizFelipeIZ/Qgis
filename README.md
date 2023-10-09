@@ -1,6 +1,6 @@
 # Sensor IoT
 
-Este repositório contém o código e a documentação de todos os sensores utilizados no PCI.
+Este repositório contém o código e a documentação de todos os sensores utilizados no PCI (programa câmpus inteligente).
 
 ## Recursos Principais
 
@@ -9,8 +9,7 @@ Este repositório contém o código e a documentação de todos os sensores util
 
 ## Pré-Requisitos
 
-- Dispositivo IoT com sensores.
-- Conexão à Internet.
-- Conta em um serviço de nuvem.
-- Ferramentas de desenvolvimento instaladas.
+- Intalação de bibliotecas (caso necessário).
+- Conectividade com microcontroladores da família ESP.
+- Ferramentas de desenvolvimento instaladas (Arduino IDE ou ESPRESSIF-IDF).
 
